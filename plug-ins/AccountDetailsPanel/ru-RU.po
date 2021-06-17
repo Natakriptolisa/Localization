@@ -35,7 +35,7 @@ msgid "The Account’s identifier"
 msgstr "Идентификатор учетной записи"
 
 msgid "Name"
-msgstr "Имя счета"
+msgstr "Наименование"
 
 msgid "Client-assigned alias for the Account"
 msgstr "Назначенный клиентом псевдоним для учетной записи"
