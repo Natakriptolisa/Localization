@@ -23,10 +23,10 @@ msgid "The current balance of the Account"
 msgstr "Текущий баланс Счета"
 
 msgid "Netting Type"
-msgstr "Тип сетки"
+msgstr "Тип хеджирования"
 
 msgid "Account’s netting type, possible values: One position, Multiple positions, Multiple positions per side"
-msgstr "Тип сетки учетной записи, возможные значения: одна позиция, несколько позиций, несколько позиций с каждой стороны"
+msgstr "Тип хеджирования учетной записи, варианты: одна позиция, несколько позиций, несколько позиций с каждой стороны"
 
 msgid "ID"
 msgstr "ID счета"
@@ -38,7 +38,7 @@ msgid "Name"
 msgstr "Имя счета"
 
 msgid "Client-assigned alias for the Account"
-msgstr "Назначенный клиентом псевдоним для учетной записи"
+msgstr "Псевдоним учетной записи"
 
 msgid "Account currency"
 msgstr "Валюта счета"
