@@ -41,7 +41,7 @@ msgid "Custom step (ticks)"
 msgstr "Пользовательский шаг (тики)"
 
 msgid "Initial balance"
-msgstr "Баланс инициализации"
+msgstr "Начальный баланс"
 
 msgid "Show singles"
 msgstr "Показать одиночные"
@@ -104,7 +104,7 @@ msgid "Volume Price"
 msgstr "Цена объема"
 
 msgid "Volume Bars"
-msgstr "Объем баров"
+msgstr "Настройка объемов"
 
 msgid "None"
 msgstr "Не задано"
@@ -233,7 +233,7 @@ msgid "Histogram"
 msgstr "Гистограмма"
 
 msgid "Single"
-msgstr "Единичный"
+msgstr "Одинарный"
 
 msgid "Double"
 msgstr "Двухместный"
@@ -308,16 +308,16 @@ msgid "Price"
 msgstr "Цена"
 
 msgid "Imb. bar"
-msgstr "Имб. Бар"
+msgstr "Дизб. Бар"
 
 msgid "Imbalance bar"
-msgstr "План-план кулачку"
+msgstr "Дизбаланс бар"
 
 msgid "Chart"
 msgstr "График"
 
 msgid "Show/Hide objects toolbar"
-msgstr "Показать/скрыть панель объектов"
+msgstr "Показать/скрыть панель инструментов"
 
 msgid "Chart style"
 msgstr "Стиль графика"
@@ -326,7 +326,7 @@ msgid "Depth of history"
 msgstr "Глубина истории"
 
 msgid "Mouse trading"
-msgstr "Ручная торговля"
+msgstr "Режим торговли мышью"
 
 msgid "Enable keyboard trading"
 msgstr "Включить клавиатурную торговлю"
@@ -380,7 +380,7 @@ msgid "Data type"
 msgstr "Тип данных"
 
 msgid "OE qty buttons"
-msgstr "Кнопки OE qty"
+msgstr "Задать значения кнопок объем ордера"
 
 msgid "View"
 msgstr "Вид"
@@ -398,13 +398,13 @@ msgid "Visual trading"
 msgstr "Визуальная торговля"
 
 msgid "Order Entry"
-msgstr "Запись заказа"
+msgstr "Ввод ордера"
 
 msgid "Info window"
 msgstr "Информационное окно"
 
 msgid "Volume bars"
-msgstr "Объемные бары"
+msgstr "Настроить объемы"
 
 msgid "Draw horizontal line"
 msgstr "Нарисовать горизонтальную линию"
@@ -449,10 +449,10 @@ msgid "Draw fibonacci retracement"
 msgstr "Нарисовать коррекцию по Фибоначчи"
 
 msgid "Draw fibonacci price extension"
-msgstr "Нарисуйте продление цены фибоначчи"
+msgstr "Нарисовать продление цены фибоначчи"
 
 msgid "Draw fibonacci price expansion"
-msgstr "Нарисуйте расширение цен фибоначчи"
+msgstr "Нарисовать расширение цен фибоначчи"
 
 msgid "Draw fibonacci arc"
 msgstr "Нарисовать дуги по Фибоначчи"
@@ -470,10 +470,10 @@ msgid "Draw fibonacci phi-channel"
 msgstr "Нарисовать фи-канала по Фибоначчи"
 
 msgid "Draw fibonacci time extension"
-msgstr "Нарисуйте продление времени фибоначчи"
+msgstr "Нарисовать продление времени фибоначчи"
 
 msgid "Draw fibonacci time expansion"
-msgstr "Нарисуйте расширение времени фибоначчи"
+msgstr "Нарисовать расширение времени фибоначчи"
 
 msgid "Draw fibonacci time zone"
 msgstr "Нарисовать временные периоды Фибоначчи"
@@ -563,7 +563,7 @@ msgid "Cancel Sell orders"
 msgstr "Отмена заказов на продажу"
 
 msgid "Close Positions"
-msgstr "Близкие позиции"
+msgstr "Закрыть позиции"
 
 msgid "Flatten"
 msgstr "Выровнять"
@@ -578,7 +578,7 @@ msgid "Reverse position"
 msgstr "Реверс позиции"
 
 msgid "Break even"
-msgstr "Оставаться при своих"
+msgstr "Перевести в безубыток"
 
 msgid "Set Quantity to match position size"
 msgstr "Установите количество, чтобы соответствовать размеру позиции"
@@ -656,16 +656,16 @@ msgid "Quick settings"
 msgstr "Быстрые настройки"
 
 msgid "Show/Hide Order Book"
-msgstr "Показать / Скрыть заказ книги"
+msgstr "Показать / Скрыть журнал ордеров"
 
 msgid "Enable auto centering"
 msgstr "Включить автоматическое центрирование"
 
 msgid "Switch info window mode"
-msgstr "Режим окна коммутатора информации"
+msgstr "Переключить режим информ. окна"
 
 msgid "Show Order Book"
-msgstr "Показать Книгу Заказов"
+msgstr "Показать журнал ордеров"
 
 msgid "General"
 msgstr "Основное"
@@ -677,7 +677,7 @@ msgid "Bichrome"
 msgstr "Бихром"
 
 msgid "Order flow surface"
-msgstr "Поверхность потока заказа"
+msgstr "Поверхность DOM"
 
 msgid "Last color"
 msgstr "Цвет ласта"
@@ -737,10 +737,22 @@ msgid "Cluster chart settings"
 msgstr "Настройки кластерного графика"
 
 msgid "Time and sales"
-msgstr "Время и продажи"
+msgstr "Лента сделок"
 
 msgid "Custom profile tool"
 msgstr "Пользовательский профиль"
 
 msgid "Custom VWAP tool"
 msgstr "Пользовательский инструмент VWAP"
+
+msgid "Show Ask"
+msgstr "показать/скрыть кнопки Ask"
+
+msgid "Show Bid"
+msgstr "показать/скрыть кнопки Bid"
+
+msgid "Show Mkt"
+msgstr "показать/скрыть кнопки MKT"
+
+msgid "Mouse trading mode"
+msgstr "Настройка режима торговли мышью"
