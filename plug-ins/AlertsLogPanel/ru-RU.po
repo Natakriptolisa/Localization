@@ -44,7 +44,7 @@ msgid "Ignore action"
 msgstr "Игнорировать действия"
 
 msgid "Last"
-msgstr "Последние"
+msgstr "Последняя"
 
 msgid "The last tradable price"
 msgstr "Последняя торгуемая цена"
